@@ -2,8 +2,6 @@
 
 **Todo App is an intuitive task checklist application to help users manage their active and completed tasks.**
 
-**Now with drag and drop functionality for your task cards! :D**
-
 
 
 ## Update Notes
